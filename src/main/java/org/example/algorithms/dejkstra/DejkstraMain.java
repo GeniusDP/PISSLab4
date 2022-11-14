@@ -4,6 +4,7 @@ import static org.example.algorithms.dejkstra.Dejkstra.INF;
 
 import java.io.IOException;
 import java.util.List;
+import org.example.algorithms.prim.PrimAlgo;
 
 public class DejkstraMain {
 

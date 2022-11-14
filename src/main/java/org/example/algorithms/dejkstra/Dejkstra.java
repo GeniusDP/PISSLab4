@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Dejkstra {
 
-  static final int INF = 1_000_000_000;
+  public static final int INF = 1_000_000_000;
 
   public static List<Integer> perform(int[][] graph, int start) {
     List<Boolean> used = new ArrayList<>();
