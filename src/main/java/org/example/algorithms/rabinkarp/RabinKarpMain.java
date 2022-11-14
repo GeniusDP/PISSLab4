@@ -1,4 +1,4 @@
-package org.example.algorithms;
+package org.example.algorithms.rabinkarp;
 
 import java.io.IOException;
 import java.nio.file.Files;
